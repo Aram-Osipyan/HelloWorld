@@ -1,7 +1,7 @@
 # HelloWorld
 game for code learning
 
-#Разработчики 
+# Разработчики 
 - Арам Осипян
 - Георгий Григорян
 - Аэлина Кондратьева
@@ -12,4 +12,4 @@ game for code learning
 - Елена Игнатенко
 
 
-[![N|Solid](https://github.com/Aram-Osipyan/HelloWorld/blob/master/ICON%20(1).png)
+![N|Solid](https://github.com/Aram-Osipyan/HelloWorld/blob/master/ICON%20(1).png)
